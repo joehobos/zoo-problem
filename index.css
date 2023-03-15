@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(14, 14, 16);
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-color: gray;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+nav{
+    color: white;
+    text-align: center;
+    padding: 2em;
+}
+
+html {
+    scroll-behavior: smooth;
+}
